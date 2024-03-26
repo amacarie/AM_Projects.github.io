@@ -1,4 +1,5 @@
--- Creating a database with the best books read from 2018 to present day
+-- Creating a database with the best books read from 2018 to present day and the books I want to read
+-- Still in work
 
 
 CREATE TABLE bestbooks(
@@ -108,3 +109,5 @@ INSERT INTO Books.dbo.nonfictionmustread(id, title, author, pub_date)
 
 SELECT *
 FROM nonfictionmustread
+
+-- TO BE CONTINUED
