@@ -1,4 +1,5 @@
 -- Creating a database with the best books read from 2018 to present day
+-- Still in work
 
 
 CREATE TABLE bestbooks(
@@ -43,16 +44,11 @@ INSERT INTO bestbooks(id, title, author, country)
 	(09, 'Yellow Wife', 'Sadeqa Johnson', 'United States'),
 	(10, 'The Rose Code', 'Kate Quinn','United Kingdom')
 
+-- TO BE CONTINUED
 
 
 
-
-	--	01, 'Animal Farm', 'George Orwell', '17/08/1945', '06/08/2019', 'United Kingdom'),
-	--(02, 'All the Light We Cannot See', 'Anthony Doerr', '06/05/2014', '02/06/2023', 'France'),
-	--(03, 'The Nightingale', 'Kristin Hannah', '08/10/2015', '16/03/2023', 'France'),
-	--(04, 'Homegoing', 'Yaa Gyasi', '07/06/2016', '24/07/2021', 'Ghana'),
-	--(05, 'Pachinko', 'Min Jin Lee', '07/07/2017', '28/12/2019', 'South Korea'),
-	--(06, 'The Travelling Cat Chronicles', 'Hiro Arikawa', '01/11/2012', '17/10/2019', 'Japan'),
+	
 	--(07, 'A Woman Is No Man', 'Etaf Rum', '05/03/2019', '13/03/2021', 'United States'),
 	--(08, 'Almond', 'Sohn Won-Pyung', '31/03/2017', '26/03/2021', 'South Korea'),
 	--(09, 'Yellow Wife', 'Sadeqa Johnson', '12/01/2021', '20/01/2024', 'United States'),
